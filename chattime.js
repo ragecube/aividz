@@ -1,4 +1,4 @@
-var apiKey = "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";
+var apiKey = "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";
 var chatApi = new OpenAIChatApi({
   apiKey: apiKey
 });
