@@ -1,5 +1,5 @@
 var chatApi = new OpenAIChatApi({
-  apiKey: "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"
+  apiKey: "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"
 });
 
 function sendMessage() {
