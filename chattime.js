@@ -1,5 +1,6 @@
+var apiKey = "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";
 var chatApi = new OpenAIChatApi({
-  apiKey: "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"
+  apiKey: apiKey
 });
 
 function sendMessage() {
@@ -13,4 +14,3 @@ function sendMessage() {
     document.getElementById("user-input").value = "";
   });
 }
-
